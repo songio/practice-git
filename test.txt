@@ -1,1 +1,10 @@
 test
+
+git clone (first time)
+git pull
+git status
+git diff
+git add
+git commit
+git push
+
